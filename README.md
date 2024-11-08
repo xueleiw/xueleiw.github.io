@@ -3,6 +3,6 @@
 ### Runyu Pan  
 ---
 ## Mentors
-### Junchao Li
+### [Junchao Li](https://junchao-l.github.io/)
 ### [Runshenghou](https://runshenghou.github.io/)
 ### This page is new! Hold on!
